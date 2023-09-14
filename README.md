@@ -1,5 +1,5 @@
-https://jangilirohini.github.io/codsoft_project/portfolio  
+task1 :https://jangilirohini.github.io/codsoft_project/portfolio  
  
- https://jangilirohini.github.io/codsoft_project/landingpage  
+task2: https://jangilirohini.github.io/codsoft_project/landingpage  
 
-  https://jangilirohini.github.io/codsoft_project/calculator
+ task3: https://jangilirohini.github.io/codsoft_project/calculator
